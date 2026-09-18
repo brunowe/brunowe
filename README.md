@@ -2,7 +2,7 @@
 
 Mechanical engineer and software developer building numerical simulations, verification-minded scientific workflows, and clear interfaces for engineering problems.
 
-[Simulation Lab](https://brunoweber-simlab.netlify.app/) · [Grain Growth Model](https://brunoweber-simlab.netlify.app/simulations/grain-growth) · [Source code](https://github.com/brunowe/simulation-fec)
+[Simulation Lab](https://brunoweber.dev/) · [Grain Growth Model](https://brunoweber.dev/simulations/grain-growth) · [Source code](https://github.com/brunowe/simulation-fec)
 
 ## Current focus
 
@@ -10,7 +10,7 @@ Mechanical engineer and software developer building numerical simulations, verif
 
 A public portfolio for interactive numerical experiments across science and engineering.
 
-The first released experiment is the [Grain Growth Model](https://brunoweber-simlab.netlify.app/simulations/grain-growth), a qualitative two-dimensional grain-coarsening simulation built as a seeded neighbor-copy Monte Carlo Potts variant.
+The first released experiment is the [Grain Growth Model](https://brunoweber.dev/simulations/grain-growth), a qualitative two-dimensional grain-coarsening simulation built as a seeded neighbor-copy Monte Carlo Potts variant.
 
 - Pure numerical engine separated from React and Canvas rendering
 - Periodic Voronoi initialization, reproducible seeds, live metrics, and interactive controls
@@ -61,6 +61,6 @@ Contributor to a collaborative React platform supporting a distributed COVID-19 
 
 Sou engenheiro mecânico e desenvolvedor de software. Trabalho na interseção entre simulação numérica, software científico e interfaces web para problemas de engenharia.
 
-O [Simulation Lab](https://brunoweber-simlab.netlify.app/) já está publicado com seu primeiro experimento, um modelo qualitativo de crescimento de grão. Em paralelo, desenvolvo a base científica e o plano de verificação de um modelo FEM térmico transiente para uma fonte laser móvel.
+O [Simulation Lab](https://brunoweber.dev/) já está publicado com seu primeiro experimento, um modelo qualitativo de crescimento de grão. Em paralelo, desenvolvo a base científica e o plano de verificação de um modelo FEM térmico transiente para uma fonte laser móvel.
 
 </details>
