@@ -6,7 +6,7 @@ Mechanical engineer and software developer building numerical simulations, verif
 
 ## Current focus
 
-### [Bruno Weber - Simulation Lab](https://brunoweber-simlab.netlify.app/)
+### [Bruno Weber - Simulation Lab](https://brunoweber.dev/)
 
 A public portfolio for interactive numerical experiments across science and engineering.
 
